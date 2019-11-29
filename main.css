@@ -143,8 +143,7 @@ a:active {
     z-index: 1;
 }   
 
-.navlink {
-    display: flex;
+.navlink {;
     background-color:rgba(0, 0, 0, 0.493);
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
@@ -241,3 +240,8 @@ input[type=submit]{
     -moz-animation-delay: 1.5s;
     animation-delay: 1.5s;
     } */
+
+.flx {
+    display: flex;
+    justify-content: center;
+}
